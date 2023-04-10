@@ -5,5 +5,4 @@ Ellipse Tool,Anchor Point Tool,Rotate Tool,Scale Tool
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/129706893/230839540-c9074757-2aba-47a3-a4ef-6a0ab7f227fa.png" width="300">
-메뉴 Window에서 <img src="https://user-images.githubusercontent.com/129706893/230840697-fbf458d3-babe-481f-8fae-f03fd02c788c.png" width="300">
+<img src="https://user-images.githubusercontent.com/129706893/230839540-c9074757-2aba-47a3-a4ef-6a0ab7f227fa.png" width="300">메뉴 Window에서 <img src="https://user-images.githubusercontent.com/129706893/230840697-fbf458d3-babe-481f-8fae-f03fd02c788c.png" width="300">
