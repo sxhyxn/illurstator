@@ -13,3 +13,4 @@ ctrl + alt + 2  --> 풀기 (한꺼번에 풀림 주의)
 
 ### 🦄z-index
 ![image](https://user-images.githubusercontent.com/129706893/230842213-ada5fca3-5af6-4fe3-9dde-4aad27da0bad.png)
+이모티콘 쓸려면 여기서 https://emojipedia.org/
